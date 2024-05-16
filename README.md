@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 Habilidades:
 
-<a href="https://git-scm.com/" target="blank"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
-<a href="https://nodejs.org/en" target="blank"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/></a>
-<a href="https://es.react.dev/" target="blank"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
-<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="blank"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
-<a href="https://www.mysql.com/" target="blank"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="blank"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
-<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="blank"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
+<a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
+<a href="https://nodejs.org/en" target="_blank"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/></a>
+<a href="https://es.react.dev/" target="_blank"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
 
 Actualidad:
 
