@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋, Me llamo Joan D
 
 <!--
 **joanda15/joanda15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hola 👋, Me llamo Joan D
 #### Soy Desarrollador fullsatck, GitHub.
 ![Soy Desarrollador fullsatck, GitHub.](https://media.licdn.com/dms/image/D4E16AQHXiDgCuTdeQA/profile-displaybackgroundimage-shrink_350_1400/0/1710709252112?e=1721260800&v=beta&t=QCWNUJ2JAQ0WfuRc5NknWXpztU9D5pAHgJtNm6u5KsI)
 
