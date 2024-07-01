@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Soy Desarrollador fullsatck, GitHub
 
-![Soy Desarrollador fullsatck, GitHub.](https://media.licdn.com/dms/image/D4E16AQHXiDgCuTdeQA/profile-displaybackgroundimage-shrink_350_1400/0/1710709252112?e=1721260800&v=beta&t=QCWNUJ2JAQ0WfuRc5NknWXpztU9D5pAHgJtNm6u5KsI)
+![Soy Desarrollador fullsatck, GitHub.](https://img.freepik.com/foto-gratis/fondo-programacion-texto-html_23-2150040420.jpg?size=626&ext=jpg&ga=GA1.1.2113030492.1719705600&semt=ais_user)
 
 😀 Desarrollador de software para sistemas Web, Android y Windows | Programador JavaScript con React, Node | Pentesting de ciberseguridad 💻
 
