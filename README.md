@@ -1,4 +1,4 @@
-### Hola 👋, Me llamo Joan D
+### Hola 👋, Me llamo Joan David GS
 
 <!--
 **joanda15/joanda15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
