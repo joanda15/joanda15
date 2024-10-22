@@ -15,30 +15,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Soy Desarrollador fullsatck.
+## Soy Desarrollador fullsatck con experiencia en programación backend.
 
 ![Soy Desarrollador fullsatck.](https://img.freepik.com/foto-gratis/fondo-programacion-texto-html_23-2150040420.jpg?size=626&ext=jpg&ga=GA1.1.2113030492.1719705600&semt=ais_user)
 
-😀 Desarrollador Full Stack JavaScript (React.js, Node.js), MySQL , MongoDB, Git, Docker y metodologías ágiles (Kanban y Scrum).
-Experiencia en desarrollo web, gestión de bases de datos y conocimientos básicos en Python para análisis de datos. 💻
+😀 Programador backend con experiencia en: Metodologías ágiles (Scrum) Python con Django, MySQL, MongoDB, Git, Postman, Linux. Conocimientos en HTML/CSS Javascript. 💻
 
 Habilidades:
 
-<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
 <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
 <a href="https://es.react.dev/" target="_blank"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
-<a href="https://nodejs.org/en" target="_blank"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/></a>
+<a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/></a>
 <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
+
 
 Actualidad:
 
 - 🔭 Estoy trabajando en Proyecto eCommerce 
-- 🌱 Estoy aprendiendo Nuevas tecnologias multiplataforma 
+- 🌱 Estoy aprendiendo Nuevas tecnologias 
 - 👯 Quiero colaborar con Diversos proyectos 
 - 🤔 Necesito ayuda con Actualizaciones de repositorios 
-- 💬 Pregúntame acerca de Ciberseguridad 
+- 💬 Pregúntame acerca de Ciberseguridad con Python
 - 📫 Cómo contactarme: jdgs.1505@gmail.com 
 - 😄 Pronombres: JOAN_DEV
 
